@@ -14,19 +14,19 @@ Projeto desenvolvido para fins acadêmicos com o objetivo de praticar operaçõe
 
 ## 🖼️ Imagens do projeto
 
-Tela inicial:
+- Tela inicial:
 ![Tela inicial](images/vetmiauau001-telainicial.png)
 
-Listando dados:
+- Listando dados:
 ![Lista dados](images/vetmiauau002-listamentodados.png)
 
-Cadastrando dados:
+- Cadastrando dados:
 ![Cadastro dados](images/vetmiauau003-cadastrodados.png)
 
-Atualizando dados:
+- Atualizando dados:
 ![Editando dados](images/vetmiauau004-updatedados.png)
 
-Dados relacionais:
+- Dados relacionais:
 ![Dados relacionais](images/vetmiauau005-dadosligados.png)
 
 ## 🗄️ Banco de Dados
