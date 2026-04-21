@@ -36,12 +36,12 @@ O arquivo do banco está em: database/vetmiauau.sql
 Importe ele no phpMyAdmin para rodar o projeto.
 
 Como importar:
-Abra o phpMyAdmin;
-Crie um banco de dados;
-Selecione o banco criado;
-Vá na aba Importar;
-Selecione o arquivo vetmiauau.sql;
-Clique em Executar!
+- Abra o phpMyAdmin;
+- Crie um banco de dados;
+- Selecione o banco criado;
+- Vá na aba Importar;
+- Selecione o arquivo vetmiauau.sql;
+- Clique em Executar!
 
 ## 📈 Aprendizados
 - Manipulação de dados com PHP;
