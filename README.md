@@ -15,19 +15,19 @@ Projeto desenvolvido para fins acadêmicos com o objetivo de praticar operaçõe
 ## 🖼️ Imagens do projeto
 
 - Tela inicial:
-![Tela inicial](images/inicio.webp)
+<img width="700" height="360" alt="Image" src="https://github.com/user-attachments/assets/f99c9c21-5790-422d-92e3-81b613d6f6bf" />
 
 - Listando dados:
-![Lista dados](images/listagem.webp)
+<img width="700" height="360" alt="Image" src="https://github.com/user-attachments/assets/70f558f0-8bda-4760-85d2-7b69075d42bd" />
 
 - Cadastrando dados:
-![Cadastro dados](images/cadastro.webp)
+<img width="700" height="360" alt="Image" src="https://github.com/user-attachments/assets/3ce61046-ee8d-42a0-8c56-03703cd1663e" />
 
 - Atualizando dados:
-![Editando dados](images/edicao.webp)
+<img width="700" height="360" alt="Image" src="https://github.com/user-attachments/assets/d0235c6c-99ab-453a-b2e4-f5e253c62a0f" />
 
 - Dados relacionais:
-![Dados relacionais](images/relacionamentodedados.webp)
+<img width="700" height="360" alt="Image" src="https://github.com/user-attachments/assets/a451421e-d74f-46cc-86dd-b44d01b921cf" />
 
 ## 🗄️ Banco de Dados
 
